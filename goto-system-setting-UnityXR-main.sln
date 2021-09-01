@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{078E58C8-CBB9-7676-8695-106433ACA824}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.PicoXR", "Unity.XR.PicoXR.csproj", "{52B88CA8-D76F-4FF1-10CC-694921902590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.XR.PicoXR.Editor", "Unity.XR.PicoXR.Editor.csproj", "{273178D1-075B-8884-9A70-16ED838AF62B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{078E58C8-CBB9-7676-8695-106433ACA824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078E58C8-CBB9-7676-8695-106433ACA824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078E58C8-CBB9-7676-8695-106433ACA824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078E58C8-CBB9-7676-8695-106433ACA824}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52B88CA8-D76F-4FF1-10CC-694921902590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52B88CA8-D76F-4FF1-10CC-694921902590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52B88CA8-D76F-4FF1-10CC-694921902590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52B88CA8-D76F-4FF1-10CC-694921902590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{273178D1-075B-8884-9A70-16ED838AF62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273178D1-075B-8884-9A70-16ED838AF62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273178D1-075B-8884-9A70-16ED838AF62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273178D1-075B-8884-9A70-16ED838AF62B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
